@@ -1,6 +1,6 @@
 # 🧠 Claude Code Skills Library
 
-Курируемая библиотека **81 скилла** для Claude Code — расширяй возможности AI-ассистента для разработки.
+Курируемая библиотека **82 скилла** для Claude Code — расширяй возможности AI-ассистента для разработки.
 
 > **Скиллы** — это инструкции и паттерны, которые улучшают работу Claude Code в специфических задачах: от TDD и code review до создания презентаций и security-аудита.
 
@@ -164,7 +164,7 @@ cp -r awesome-claude-skills/security/ .claude/commands/
 | **[Swift Expert](./languages/swift-expert.md)** | Разрабатываешь на Swift/iOS |
 | **[Modern Python](./languages/modern-python.md)** | Используешь фичи Python 3.10+ |
 
-### 🤖 AI & Data (3 скилла)
+### 🤖 AI & Data (4 скилла)
 
 Скиллы для работы с AI и данными.
 
@@ -173,6 +173,7 @@ cp -r awesome-claude-skills/security/ .claude/commands/
 | **[RAG Architect](./ai-data/rag-architect.md)** | Проектируешь RAG систему |
 | **[Prompt Engineer](./ai-data/prompt-engineer.md)** | Оптимизируешь промпты для LLM |
 | **[Pandas Pro](./ai-data/pandas-pro.md)** | Работаешь с данными в pandas |
+| **[X Social Signal Research](./ai-data/x-social-signal-research.md)** | Исследуешь текущие X/Twitter сигналы через Hermes Tweet для рынка, контента, конкурентов и аудитории |
 
 ### 🎨 Design & Creative (4 скилла)
 
