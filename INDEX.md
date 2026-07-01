@@ -1,6 +1,6 @@
 # Skills Library
 
-Локальная библиотека скиллов для Claude Code. **81 скилл**.
+Локальная библиотека скиллов для Claude Code. **82 скилла**.
 
 ## Использование
 
@@ -110,13 +110,14 @@
 | Swift Expert | [swift-expert.md](./languages/swift-expert.md) | Swift/iOS development |
 | Modern Python | [modern-python.md](./languages/modern-python.md) | Python 3.10+ features |
 
-### AI & Data (3)
+### AI & Data (4)
 
 | Скилл | Файл | Описание |
 |-------|------|----------|
 | RAG Architect | [rag-architect.md](./ai-data/rag-architect.md) | Retrieval-Augmented Generation |
 | Prompt Engineer | [prompt-engineer.md](./ai-data/prompt-engineer.md) | LLM prompt optimization |
 | Pandas Pro | [pandas-pro.md](./ai-data/pandas-pro.md) | Data manipulation |
+| X Social Signal Research | [x-social-signal-research.md](./ai-data/x-social-signal-research.md) | Current X/Twitter signal research with Hermes Tweet |
 
 ### Design & Creative (4)
 
@@ -177,7 +178,7 @@ skills/
 ├── infrastructure/         # 7 скиллов
 ├── database/               # 3 скилла
 ├── languages/              # 5 скиллов
-├── ai-data/                # 3 скилла
+├── ai-data/                # 4 скилла
 ├── design-creative/        # 4 скилла
 ├── documents/              # 4 скилла
 ├── testing-automation/     # 3 скилла
